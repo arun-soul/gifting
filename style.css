@@ -1,0 +1,93 @@
+.certify {
+    width: 450px;
+    height: 450px;
+    color: white;
+}
+a {text-decoration: none;}
+table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #B3E8E5;
+    padding: 30px 0 30px 0;
+}
+body {
+    margin: 0;
+    font-family: 'ubuntu light';
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    color : white;
+}
+.nav-item {
+    margin: 0 25px;
+    font-family: 'ubuntu light';
+    display: inline-block;
+}
+.title-heading {
+    font-size: 85px;
+    font-family: 'ubuntu Regular';
+    color: 	#4267B2;
+}
+.products-head {
+    font-size: 60px;
+    font-family: 'ubuntu regular';
+}
+.prod1 {
+    display: inline-block;
+    width: 50%;
+    height: 30%;
+    text-align: center;
+}
+span {
+    color: rgb(6, 1, 15);
+}
+.products2 {
+    display		: inline-block;
+	margin		: 0 100px;
+	width		: 300px;
+	height		: 300px;
+}
+img {
+	width	: 100%;
+	height	: 100%;
+}
+.footer {
+	display		: inline-block;
+	padding		: 15px 0 30px 0;
+    margin-top: 30px;
+	width		: 100%;
+	text-align	: center;
+	background	: #B3E8E5;
+	}
+	
+	.fa {
+	padding 		: 15px 30px;
+	color		    : white;
+	font-size	    : 20px;
+	margin		    : 15px 5px;
+	border-radius	: 7px;
+	transition  	: 0.3s;
+	}
+
+	.fa-facebook {
+	background: #3b5998;
+	}
+	.fa-google {
+	background: #db3236;
+	}
+	.fa-yahoo {
+	background: #430297;
+	}
+	.fa-youtube {
+	background: #FF0000;
+	}
+	.fa-linkedin {
+	background: #007bb5;
+	}
+	.fa-skype {
+	background: #00aff0;
+	}
+	.fa:hover {opacity: 0.7; cursor: pointer; padding-left: 40px; padding-right: 40px; transition: 0.3s;}
